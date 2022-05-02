@@ -1,0 +1,2 @@
+personId|int|PRIMARY KEY
+Name|Varchar|250

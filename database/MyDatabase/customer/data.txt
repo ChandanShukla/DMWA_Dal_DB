@@ -1,0 +1,4 @@
+customer_id|name|email|address
+50|udit|manthan@gmail.com|montreal|
+10|sparsh|jaynil@gmail.com|Halifax|
+10|sparsh|manthan@gmail.com|Halifax|
